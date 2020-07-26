@@ -2,10 +2,10 @@
 
 ## Technical Skills
 
-### PROGRAMMING LANGUAGES & LIBRARIES
+### Programming Languages & Libraries
 CSS/ HTML, SASS, Bootstrap, JavaScript, Node.js, Express.js, React, Redux, mySQL, Lodash, Axios
 
-### DATABASE SOFTWARE
+### Database Software
 MySQL Workbench, Postman, Amazon Web Services
 
 ## Experience
@@ -19,8 +19,8 @@ Made two full-stack working applications in React, learning how to code using bo
 
 ## Education
 
-### BACHELOR OF SCIENCE, COLLEGE OF SOUTHERN NEVADA  
+### Bachelor of Science, College of Southern Nevada  
 (January 2018 - Present) - Currently in my second year of college working towards my bachelor’s degree
 
-### HIGH SCHOOL DIPLOMA, BARSTOW HIGH SCHOOL
+### High School Diploma, Barstow High School
 (June 2017) - Perfect score on math exit exam, graduated with a cumulative GPA of 3.64
