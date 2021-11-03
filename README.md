@@ -3,7 +3,7 @@
 ## Technical Skills
 
 ### Programming Languages & Libraries
-CSS/ HTML, SASS, Bootstrap, JavaScript, Coffescript, Pug.js(Jade), Node.js, Express.js, React, Redux, mySQL, Lodash, Axios, Meteor, Mongo 
+CSS/ HTML, SASS, Bootstrap, MUI, JavaScript, Coffescript, Pug.js(Jade), Node.js, Express.js, React, Redux, mySQL, Lodash, Axios, Meteor, Mongo, Angular
 
 ### Database Software
 MySQL Workbench, Postman, Amazon Web Services, MongoDB
