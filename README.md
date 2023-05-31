@@ -5,23 +5,23 @@
 ### Programming Languages & Libraries
 
 #### Front-end Technologies:
-HTML/CSS
-SASS
-Bootstrap
-MUI (Material-UI)
-JavaScript
-CoffeeScript
-Pug.js (Jade)
-React
-Angular
-Next.js
+HTML/CSS,
+SASS,
+Bootstrap,
+MUI (Material-UI),
+JavaScript,
+CoffeeScript,
+Pug.js (Jade),
+React,
+Angular,
+Next.js,
 AMPT (Serverless Cloud)
 
 #### Back-end Technologies:
-Node.js
-Express.js
-MySQL
-MongoDB (Mongo)
+Node.js,
+Express.js,
+MySQL,
+MongoDB (Mongo),
 Meteor
 
 ### Database Software
