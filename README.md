@@ -13,6 +13,7 @@ JavaScript,
 CoffeeScript,
 Pug.js (Jade),
 React,
+Redux ToolKit,
 Angular,
 Next.js,
 AMPT (Serverless Cloud)
@@ -33,7 +34,7 @@ MySQL Workbench, Postman, Amazon Web Services, MongoDB
 Made two full-stack working applications in React, learning how to code using both front-end and back-end frameworks and libraries. Completed 12-week course remotely while communicating and working with Slack, GitHub, and Zoom.
 
 ### Coin Cloud.
-(AUG 2020 – CURRENT) - Software Engineer I
+(AUG 2020 – July 2023) - Software Engineer I
 
 ### Seatstir
-(AUG 2021 – CURRENT) - Fullstack Developer
+(Oct 2023 – CURRENT) - Tech Lead
